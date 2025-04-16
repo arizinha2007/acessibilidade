@@ -4,7 +4,10 @@
 :root {
     --laranja-claro: #FF862A;
 }
-.fund
+.fundo{
+background-color: #b19ea8;
+
+}
 
 body {
     font-size: 1rem;
