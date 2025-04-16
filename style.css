@@ -12,7 +12,7 @@ background-color: #b19ea8;
 body {
     font-size: 1rem;
     font-family: 'Montserrat';
-    background-color: #D3D3D3; /* Cor de fundo cinza claro */
+    background-color: #030101; /* Cor de fundo cinza claro */
 
 }
 
@@ -132,7 +132,7 @@ h2 {
     }
     
     header {
-        background-color: #f30404;
+        background-color: #999999;
     }
     
     
