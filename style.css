@@ -21,9 +21,9 @@ background-color: #b19ea8;
         line-height: var(--bs-body-line-height);
         color: var(--bs-body-color);
         text-align: var(--bs-body-text-align);
-        background-color: var(--bs-body-bg);
+        background-color: #999999 var(--bs-body-bg);
         -webkit-text-size-adjust: 100%;
-        -webkit-tap-highlight-color: transparent;
+        -webkit-tap-highlight-color: #b9b8b8;
 
 }
 
